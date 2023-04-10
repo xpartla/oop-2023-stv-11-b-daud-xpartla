@@ -1,0 +1,4 @@
+Journey Helper
+
+People often fail to create optimal travel paths, causing them not to be able to visit all the attractions they wanted during their trip. That's why Journey Helper is going to be a great tool for people planning their trips.
+Users have to specify some details about their desired route, like start and end point, number of people travelling, amount of days they want to travel or the activities they want to take part in. Journey Helper will create a path with different stops to see different attractions (e.g. hikes, sightseeing, theatre, zoo, carnival...). After each stop, the user is asked whether they want to stay on the original route or choose a different route to see some attraction nearby, in which case the route automatically changes. Users can choose to end the journey at any point, or it ends automatically upon reaching the end destination.
